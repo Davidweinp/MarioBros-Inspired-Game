@@ -21,5 +21,5 @@ Our game seeks to captivate players by blending the nostalgic feel of Mario Bros
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo: https://github.com/Davidweinp/MarioBros-Inspired-Game.git
-2. Open the project in GameMaker Studio and run it.
+2. Open the project in GameMaker Studio 2 and run it.
    
